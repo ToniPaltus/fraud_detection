@@ -1,1 +1,1 @@
-It's a fraud detection data scince project
+It's a fraud detection data science project
